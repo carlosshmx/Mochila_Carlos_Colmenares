@@ -1,0 +1,15 @@
+ping -c 2 www.digitalhouse.com
+su root
+*Ingreso contraseña*
+apt-get install git
+git --version
+
+
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?.  
+La disponibilidad de un lenguaje de programación en un sistema operativo depende de la existencia de una implementación compatible, las dependencias del sistema operativo, la portabilidad del lenguaje y la popularidad/demanda entre los desarrolladores para esa combinación específica de lenguaje y sistema operativo.
+
+¿Qué tipo de máquina virtual es virtualBox?. 
+VirtualBox es una máquina virtual de tipo 2 que permite la creación y ejecución de múltiples sistemas operativos dentro de un sistema operativo anfitrión existente. Proporciona una capa de abstracción entre las máquinas virtuales y el sistema operativo anfitrión. El sistema operativo anfitrión se encarga de la administración de los recursos físicos de la computadora y VirtualBox actúa como intermediario para proporcionar a las máquinas virtuales acceso a estos recursos virtuales.
+
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué? 
+Si una máquina virtual se rompe o tiene algún problema, esto no debería afectar directamente a las demás máquinas virtuales que están siendo ejecutadas en el mismo entorno de VirtualBox. Cada máquina virtual es independiente y se ejecuta como un sistema operativo aislado dentro del entorno de VirtualBox.
