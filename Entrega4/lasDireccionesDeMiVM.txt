@@ -1,0 +1,14 @@
+- La IP privada y publica de la maquina virtual
+
+	IP privada: 10.0.2.15
+	IP publica: 179.25.54.286
+
+- La direccion MAC
+
+	Direccion MAC: 08:00:27:52:79:cc
+
+- ¿Es diferente a la IP pulica y privada de nuestra maquina host?
+
+	IP privada: Es diferente
+	IP publica: Es la misma
+
